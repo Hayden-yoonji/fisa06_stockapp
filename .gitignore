@@ -4,5 +4,7 @@ a.txt
 miniproj/
 # 간단한 정규식 사용가능
 # *은 모든 파일을 의미한다.
-*.txt
+
+!requirements.txt
+#txt 다 제외하는데 이것만 빼고
 
