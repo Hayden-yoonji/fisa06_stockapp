@@ -1,5 +1,6 @@
 # 파일은 파일명으로 작성한다.
 a.txt
+.env
 # 폴더는 폴더명/로 작성한다
 miniproj/
 # 간단한 정규식 사용가능
@@ -7,4 +8,3 @@ miniproj/
 
 !requirements.txt
 #txt 다 제외하는데 이것만 빼고
-
